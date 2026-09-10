@@ -1,0 +1,10 @@
+E:\K24.NET.DAOO\NVDAOO\NVDaoo.lesson06\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\K24.NET.DAOO\NVDAOO\NVDaoo.lesson06\obj\Debug\net8.0\NVDaoo.lesson06.GeneratedMSBuildEditorConfig.editorconfig
+E:\K24.NET.DAOO\NVDAOO\NVDaoo.lesson06\obj\Debug\net8.0\NVDaoo.lesson06.AssemblyInfoInputs.cache
+E:\K24.NET.DAOO\NVDAOO\NVDaoo.lesson06\obj\Debug\net8.0\NVDaoo.lesson06.AssemblyInfo.cs
+E:\K24.NET.DAOO\NVDAOO\NVDaoo.lesson06\obj\Debug\net8.0\NVDaoo.lesson06.csproj.CoreCompileInputs.cache
+E:\K24.NET.DAOO\NVDAOO\NVDaoo.lesson06\obj\Debug\net8.0\NVDaoo.lesson06.MvcApplicationPartsAssemblyInfo.cache
+E:\K24.NET.DAOO\NVDAOO\NVDaoo.lesson06\obj\Debug\net8.0\NVDaoo.lesson06.RazorAssemblyInfo.cache
+E:\K24.NET.DAOO\NVDAOO\NVDaoo.lesson06\obj\Debug\net8.0\NVDaoo.lesson06.RazorAssemblyInfo.cs
+E:\K24.NET.DAOO\NVDAOO\NVDaoo.lesson06\obj\Debug\net8.0\NVDaoo.lesson06.sourcelink.json
+E:\K24.NET.DAOO\NVDAOO\NVDaoo.lesson06\obj\Debug\net8.0\NVDaoo.lesson06.csproj.AssemblyReference.cache
